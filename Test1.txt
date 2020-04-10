@@ -1,1 +1,2 @@
-Test 1 - Changed file
+Test 1 - Changed file1
+Test 1 - Changed file2
